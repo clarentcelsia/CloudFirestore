@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseFirestore</string>
+    <string-array name="gender">
+        <item>- select gender -</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
